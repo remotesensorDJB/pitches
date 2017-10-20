@@ -5,7 +5,7 @@
 ---
 ### The Plan
 * Talk about *Geographic Scale*
- * What is it? How do we represent it? 
+ * What is it? How do we represent it? Large scale vs small scale.
  * What are the effects/limitations of scale?
  * How do we make decisions about scale in our mapping efforts?
 * Talk about *Scale of Measurement*
@@ -23,5 +23,16 @@
  * Cartograms
  * Vector Fields
 ---
- ### Geographic Scale
+### Geographic *(Map)* Scale
  >*The ratio of a distance on a map to the corresponding distance on the ground* 
+---
+###Representing Map Scale
+* Representative Fraction
+ * 1:24,000
+* Textual Scale
+ * *One inch equals 24,000 inches
+ * *1" = 2,000'
+* Graphical Scale
+ * Scale Bars
+  * ![Scale](images/scale.jpg)
+---
