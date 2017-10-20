@@ -13,7 +13,7 @@
  - What is data normalization?
 ---
 ### The Plan
-- Talk about -Thematic Mapping- |
+- Talk about _Thematic Mapping_ |
  - Data Classification > Choropleth Mapping
  - Ways to classify data
  - The role of color/shading
