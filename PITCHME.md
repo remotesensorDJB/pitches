@@ -24,7 +24,7 @@
  - Vector Fields
 ---
 ## Geographic *(Map)* Scale
- - >*The ratio of a distance on a map to the corresponding distance on the ground* |
+  >*The ratio of a distance on a map to the corresponding distance on the ground* 
 ---
 ### Representing Map Scale
 - Representative Fraction |
@@ -37,10 +37,10 @@
  - ![Scale](http://faculty.chemeketa.edu/afrank1/topo_maps/scale/scale.jpg)
 ---
 ### Large or Small Scale?? 
-- #### Easy way to remember: |
- - >*Features appear **larger** in **large** scale maps, and **smaller** in **small** scale maps* |
+- #### Easy way to remember: 
+ - >*Features appear **larger** in **large** scale maps, and **smaller** in **small** scale maps* 
 - #### CAUTION! |
- - >A large number ≠ a large scale map! 
+ - >A large number ≠ a large scale map! |
 ---
 ![ScaleHeadache](http://blog.chartandmapshop.com.au/wp-content/uploads/2015/02/scale.png)
 ---
@@ -80,5 +80,41 @@ Exaggeration – Enlarging object to preserve it at smaller scales
 https://youtu.be/I_rw-AJqpCM 
 --- 
 ## DATA SCALE
-###SCALE OF MEASUREMENT
+###or SCALE OF MEASUREMENT
+> How are *attributes* measured? 
+
+- Four main scales of data:
+ - Nominal: Each value is a unique meaning |
+ - Ordinal: Each value is ranked in relation to other values |
+ - Interval: The scale unit is fixed |
+ - Ratio: The scale has a true zero value |
+---
+####Nominal Data
+- Categorical/Descriptive 
+- Numbers have no mathematical value, only used as labels 
+- Operations: = , ≠
+- Example: Land Use Classification
+---
+####Ordinal Data
+- Rankings
+- 1st, 2nd, 3rd, etc. 
+- Distance between adjacent values could vary widely
+- Operations: < , >
+- Example: Top ten countries by population
+---
+####Interval Data
+- Data points are measured on a fixed scale
+- Data scale **has no true zero value**, and negatives are possible
+- Operations + , - 
+- Examples: Temperature on Celsius Scale, Time/Date from 0CE  
+---
+####Ratio Data
+- Data scale has a true/absolute zero value
+- Negative values not possible
+- Operations * , /
+- Examples: Daily precipitation, population, Temp in Kelvin
+---
+####Spatial Data Levels
+![Spatial Data Scales](images/data_levels_maps.JPG)
+
 	
