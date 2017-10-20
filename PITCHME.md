@@ -1,16 +1,18 @@
-#SPATIAL DATA CONCEPTS AND VISUALIZATION
-##GEOG 350 - FALL 2017
+# SPATIAL DATA CONCEPTS AND VISUALIZATION
+## GEOG 350 - FALL 2017
 
-###Donald J. Biddle
+### Donald J. Biddle
 ---
-###The Plan
-* Talk about GEOGRAPHIC SCALE
+### The Plan
+* Talk about *Geographic Scale*
  * What is it? How do we represent it? 
  * What are the effects/limitations of scale?
  * How do we make decisions about scale in our mapping efforts?
-* Talk about SCALE OF MEASUREMENT
+* Talk about *Scale of Measurement*
  * What are *levels* of data
  * What is data normalization?
+---
+### The Plan
 * Talk about *Thematic Mapping*
  * Data Classification > Choropleth Mapping
  * Ways to classify data
@@ -20,7 +22,6 @@
  * Proportional Symbols
  * Cartograms
  * Vector Fields
- * 
-
-
 ---
+ ### Geographic Scale
+ >*The ratio of a distance on a map to the corresponding distance on the ground* 
