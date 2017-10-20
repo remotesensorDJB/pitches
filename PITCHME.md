@@ -46,5 +46,31 @@
 ---
 #### Examples of large vs. small scale maps
 ![Scale Example Image](http://blog.chartandmapshop.com.au/wp-content/uploads/2015/02/scales.png)
- 
+---
+### Limitations/Effects of Scale
+#### Simply put: Tradeoff between detail and extent
+* ##### Large Scale Maps > High detail, limited area
+* ##### Small Scale Maps > Large extent, limited detail
+---
+### Scale Effects
+* **Cartographic Generalization**
+ * Deriving a smaller scale map from large scale map data
+ * Abstraction of higher level data to lower level data
+ * Loss of detail/Omission of key features
+ * The "Baltimore Phenomenon"
+---
+### Generalization
+![Generalization Examples Image 1](images/generalization1.png)
+Note: Simplification – Removing points
+Smoothing – Replacing sharp and complex bends with smoother ones
+Collapse – Areas become combinations of lines and points
+Aggregation – individual objects are replaced by a smaller number of new objects
+---
+### Generalization
+![Generalization Examples Image 2](images/generalization2.png)
+Note: Amalgamation – Several Area objects become one single area
+Merge – Several lines become one line
+Refinement – Replacing complex patterns with a simple pattern preserving general form
+Exaggeration – Enlarging object to preserve it at smaller scales
+--- 
  
