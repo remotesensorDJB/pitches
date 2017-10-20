@@ -72,5 +72,9 @@ Note: Amalgamation – Several Area objects become one single area
 Merge – Several lines become one line
 Refinement – Replacing complex patterns with a simple pattern preserving general form
 Exaggeration – Enlarging object to preserve it at smaller scales
---- 
+---
+###The Coastline Paradox
+>The measured length of a feature is inversely proportional to its unit of measure.
+>The smaller the unit of measure, the longer the measured length!
+![Coastline Paradox](http://www.youtube.com/watch?v=I_rw-AJqpCM) 
  
