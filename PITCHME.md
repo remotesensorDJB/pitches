@@ -34,5 +34,5 @@
  * *1" = 2,000'
 * Graphical Scale
  * Scale Bars
-  * ![Scale](images/scale.jpg)
+  * ![Scale](http://faculty.chemeketa.edu/afrank1/topo_maps/scale/scale.jpg)
 ---
