@@ -76,5 +76,6 @@ Exaggeration – Enlarging object to preserve it at smaller scales
 ### The Coastline Paradox
 > The measured length of a feature is inversely proportional to its unit of measure.
 > The smaller the unit of measure, the longer the measured length!
+
 https://youtu.be/I_rw-AJqpCM 
 --- 
