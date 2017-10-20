@@ -22,6 +22,6 @@
  * Proportional Symbols
  * Cartograms
  * Vector Fields
- ---
+---
  ### Geographic Scale
  >*The ratio of a distance on a map to the corresponding distance on the ground* 
