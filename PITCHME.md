@@ -11,6 +11,8 @@
 * Talk about SCALE OF MEASUREMENT
  * What are *levels* of data
  * What is data normalization?
+---
+### The Plan
 * Talk about *Thematic Mapping*
  * Data Classification > Choropleth Mapping
  * Ways to classify data
@@ -20,7 +22,6 @@
  * Proportional Symbols
  * Cartograms
  * Vector Fields
- * 
-
-
----
+ ---
+ ### Geographic Scale
+ >*The ratio of a distance on a map to the corresponding distance on the ground* 
