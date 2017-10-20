@@ -41,6 +41,7 @@
 >*Features appear **larger** in **large** scale maps, and **smaller** in **small** scale maps*
 #### CAUTION!
 >A large number does not equal a large scale map! 
+---
 ![ScaleHeadache](http://blog.chartandmapshop.com.au/wp-content/uploads/2015/02/scale.png)
 ---
 #### Examples of large vs. small scale maps
