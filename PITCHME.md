@@ -37,10 +37,10 @@
   * ![Scale](http://faculty.chemeketa.edu/afrank1/topo_maps/scale/scale.jpg)
 ---
 ### Large or Small Scale?? 
-#### Easy way to remember: |
->*Features appear **larger** in **large** scale maps, and **smaller** in **small** scale maps* |
-#### CAUTION! |
->A large number ≠ a large scale map! 
+- #### Easy way to remember: |
+ - >*Features appear **larger** in **large** scale maps, and **smaller** in **small** scale maps* |
+- #### CAUTION! |
+ - >A large number ≠ a large scale map! 
 ---
 ![ScaleHeadache](http://blog.chartandmapshop.com.au/wp-content/uploads/2015/02/scale.png)
 ---
@@ -53,11 +53,11 @@
 - ###### Small Scale Maps > Large extent, limited detail |
 ---
 ### Scale Effects
-* **Cartographic Generalization**
- * Deriving a smaller scale map from large scale map data |
- * Abstraction of higher level data to lower level data |
- * Loss of detail/Omission of key features |
- * The "Baltimore Phenomenon" |
+- **Cartographic Generalization**
+ - Deriving a smaller scale map from large scale map data |
+ - Abstraction of higher level data to lower level data |
+ - Loss of detail/Omission of key features |
+ - The "Baltimore Phenomenon" |
 ---
 ### Generalization
 ![Generalization Examples Image 1](images/generalization1.png)
