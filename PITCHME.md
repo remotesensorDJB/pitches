@@ -78,5 +78,5 @@ Exaggeration – Enlarging object to preserve it at smaller scales
 > The smaller the unit of measure, the longer the measured length!
 ---
 ### The Coastline Paradox
-![Video](http://www.youtube.com/watch?v=I_rw-AJqpCM) 
+![Video](https://youtu.be/I_rw-AJqpCM) 
  
