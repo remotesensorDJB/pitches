@@ -74,7 +74,7 @@ Refinement – Replacing complex patterns with a simple pattern preserving gener
 Exaggeration – Enlarging object to preserve it at smaller scales
 ---
 ###The Coastline Paradox
->The measured length of a feature is inversely proportional to its unit of measure.
->The smaller the unit of measure, the longer the measured length!
+> The measured length of a feature is inversely proportional to its unit of measure.
+> The smaller the unit of measure, the longer the measured length!
 ![Coastline Paradox](http://www.youtube.com/watch?v=I_rw-AJqpCM) 
  
