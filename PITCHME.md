@@ -1,9 +1,9 @@
-#SPATIAL DATA CONCEPTS AND VISUALIZATION
-##GEOG 350 - FALL 2017
+# SPATIAL DATA CONCEPTS AND VISUALIZATION
+## GEOG 350 - FALL 2017
 
-###Donald J. Biddle
+### Donald J. Biddle
 ---
-###The Plan
+### The Plan
 * Talk about GEOGRAPHIC SCALE
  * What is it? How do we represent it? 
  * What are the effects/limitations of scale?
