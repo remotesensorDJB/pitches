@@ -4,17 +4,17 @@
 ### Donald J. Biddle
 ---
 ### The Plan 
-- Talk about *Geographic Scale* |
+- Talk about Geographic Scale |
  - What is it? How do we represent it? Large scale vs small scale.
  - What are the effects/limitations of scale?
  - How do we make decisions about scale in our mapping efforts?
-- Talk about *Scale of Measurement* | 
- - What are *levels* of data
+- Talk about Scale of Measurement | 
+ - What are *levels* of data?
  - What is data normalization?
 ---
 ### The Plan
-- Talk about _Thematic Mapping_ |
- - Data Classification > Choropleth Mapping
+- Talk about Thematic Mapping |
+ - Data Classification > Choropleth Mapping 
  - Ways to classify data
  - The role of color/shading
 - Other ways to represent data |
