@@ -49,8 +49,8 @@
 ---
 ### Limitations/Effects of Scale
 #### Simply put: Tradeoff between detail and extent
-* ###### Large Scale Maps > High detail, limited area |
-* ###### Small Scale Maps > Large extent, limited detail |
+- ###### Large Scale Maps > High detail, limited area |
+- ###### Small Scale Maps > Large extent, limited detail |
 ---
 ### Scale Effects
 * **Cartographic Generalization**
@@ -81,8 +81,4 @@ https://youtu.be/I_rw-AJqpCM
 --- 
 ## DATA SCALE
 ###SCALE OF MEASUREMENT
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+	
