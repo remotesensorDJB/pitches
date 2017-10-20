@@ -3,43 +3,43 @@
 
 ### Donald J. Biddle
 ---
-### The Plan
-* Talk about *Geographic Scale*
+### The Plan 
+* Talk about *Geographic Scale* |
  * What is it? How do we represent it? Large scale vs small scale.
  * What are the effects/limitations of scale?
  * How do we make decisions about scale in our mapping efforts?
-* Talk about *Scale of Measurement*
+* Talk about *Scale of Measurement* | 
  * What are *levels* of data
  * What is data normalization?
 ---
 ### The Plan
-* Talk about *Thematic Mapping*
+* Talk about *Thematic Mapping* |
  * Data Classification > Choropleth Mapping
  * Ways to classify data
  * The role of color/shading
-* Other ways to represent data
+* Other ways to represent data |
  * Dot Density
  * Proportional Symbols
  * Cartograms
  * Vector Fields
 ---
-### Geographic *(Map)* Scale
- >*The ratio of a distance on a map to the corresponding distance on the ground* 
+## Geographic *(Map)* Scale
+ >*The ratio of a distance on a map to the corresponding distance on the ground* |
 ---
 ### Representing Map Scale
-* Representative Fraction
+* Representative Fraction |
  * 1:24,000
-* Textual Scale
+* Textual Scale |
  * *One inch equals 24,000 inches*
  * *1" = 2,000'*
-* Graphical Scale
+* Graphical Scale |
  * Scale Bars
   * ![Scale](http://faculty.chemeketa.edu/afrank1/topo_maps/scale/scale.jpg)
 ---
-### Large or Small Scale??
-#### Easy way to remember:
->*Features appear **larger** in **large** scale maps, and **smaller** in **small** scale maps*
-#### CAUTION!
+### Large or Small Scale?? 
+#### Easy way to remember: |
+>*Features appear **larger** in **large** scale maps, and **smaller** in **small** scale maps* |
+#### CAUTION! |
 >A large number ≠ a large scale map! 
 ---
 ![ScaleHeadache](http://blog.chartandmapshop.com.au/wp-content/uploads/2015/02/scale.png)
@@ -49,15 +49,15 @@
 ---
 ### Limitations/Effects of Scale
 #### Simply put: Tradeoff between detail and extent
-* ##### Large Scale Maps > High detail, limited area
-* ##### Small Scale Maps > Large extent, limited detail
+* ###### Large Scale Maps > High detail, limited area |
+* ###### Small Scale Maps > Large extent, limited detail |
 ---
 ### Scale Effects
 * **Cartographic Generalization**
- * Deriving a smaller scale map from large scale map data
- * Abstraction of higher level data to lower level data
- * Loss of detail/Omission of key features
- * The "Baltimore Phenomenon"
+ * Deriving a smaller scale map from large scale map data |
+ * Abstraction of higher level data to lower level data |
+ * Loss of detail/Omission of key features |
+ * The "Baltimore Phenomenon" |
 ---
 ### Generalization
 ![Generalization Examples Image 1](images/generalization1.png)
@@ -79,3 +79,10 @@ Exaggeration – Enlarging object to preserve it at smaller scales
 
 https://youtu.be/I_rw-AJqpCM 
 --- 
+## DATA SCALE
+###SCALE OF MEASUREMENT
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
