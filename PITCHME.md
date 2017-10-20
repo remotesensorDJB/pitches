@@ -30,8 +30,8 @@
 * Representative Fraction
  * 1:24,000
 * Textual Scale
- * *One inch equals 24,000 inches
- * *1" = 2,000'
+ * *One inch equals 24,000 inches*
+ * *1" = 2,000'*
 * Graphical Scale
  * Scale Bars
   * ![Scale](http://faculty.chemeketa.edu/afrank1/topo_maps/scale/scale.jpg)
