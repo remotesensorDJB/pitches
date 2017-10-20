@@ -1,0 +1,7 @@
+#SPATIAL DATA CONCEPTS/VISUALIZATION LECTURE
+##GEOG 350 - FALL 2017
+
+Hello!
+---
+###Intro to Spatial Data Concepts and VISUALIZATION
+---
