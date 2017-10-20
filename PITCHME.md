@@ -35,12 +35,13 @@
 * Graphical Scale
  * Scale Bars
   * ![Scale](http://faculty.chemeketa.edu/afrank1/topo_maps/scale/scale.jpg)
----?image=http://blog.chartandmapshop.com.au/wp-content/uploads/2015/02/scale.png
+---
 ### Large or Small Scale??
 #### Easy way to remember:
 >*Features appear **larger** in **large** scale maps, and **smaller** in **small** scale maps*
 #### CAUTION!
 >A large number does not equal a large scale map! 
+![ScaleHeadache](http://blog.chartandmapshop.com.au/wp-content/uploads/2015/02/scale.png)
 ---
 #### Examples of large vs. small scale maps
 ![Scale Example Image](http://blog.chartandmapshop.com.au/wp-content/uploads/2015/02/scales.png)
