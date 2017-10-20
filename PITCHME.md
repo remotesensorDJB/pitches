@@ -26,7 +26,7 @@
 ### Geographic *(Map)* Scale
  >*The ratio of a distance on a map to the corresponding distance on the ground* 
 ---
-###Representing Map Scale
+### Representing Map Scale
 * Representative Fraction
  * 1:24,000
 * Textual Scale
