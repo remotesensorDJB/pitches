@@ -1,2 +1,4 @@
-theme : white
+theme : night
 background : images/background-world-map-1.gif
+transition : fade
+logo : http://ulcgis.org/index_files/image002.jpg 
