@@ -80,7 +80,7 @@ Exaggeration – Enlarging object to preserve it at smaller scales
 https://youtu.be/I_rw-AJqpCM 
 --- 
 ## DATA SCALE
-###or SCALE OF MEASUREMENT
+### or SCALE OF MEASUREMENT
 > How are *attributes* measured? 
 
 - Four main scales of data:
@@ -89,32 +89,32 @@ https://youtu.be/I_rw-AJqpCM
  - Interval: The scale unit is fixed |
  - Ratio: The scale has a true zero value |
 ---
-####Nominal Data
+#### Nominal Data
 - Categorical/Descriptive 
 - Numbers have no mathematical value, only used as labels 
 - Operations: = , ≠
 - Example: Land Use Classification
 ---
-####Ordinal Data
+#### Ordinal Data
 - Rankings
 - 1st, 2nd, 3rd, etc. 
 - Distance between adjacent values could vary widely
 - Operations: < , >
 - Example: Top ten countries by population
 ---
-####Interval Data
+#### Interval Data
 - Data points are measured on a fixed scale
 - Data scale **has no true zero value**, and negatives are possible
-- Operations + , - 
+- Operations: + , - 
 - Examples: Temperature on Celsius Scale, Time/Date from 0CE  
 ---
-####Ratio Data
+#### Ratio Data
 - Data scale has a true/absolute zero value
 - Negative values not possible
-- Operations * , /
+- Operations: * , /
 - Examples: Daily precipitation, population, Temp in Kelvin
 ---
-####Spatial Data Levels
+#### Scales of Spatial Data
 ![Spatial Data Scales](images/data_levels_maps.JPG)
 
 	
