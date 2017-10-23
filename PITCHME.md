@@ -156,10 +156,11 @@ https://youtu.be/I_rw-AJqpCM
 ---
 ### CLASSIFICATION METHODS
 - Where do we define the breakpoints in our dataset? **How many classes are appropriate?**
-- Three main methods:
+- Four main methods:
  - Equal Interval: divides the range of attribute values into equal-sized subranges. **Rectangular distributions**
  - Quantile: Each class contains an equal number of features. **Recatangular distributions**
  - Natural Breaks: based on natural groupings of data. Maximizes in group similarity, minimizes out of group differences. **Uneven/skewed/multimodal distributions**
+ - Standard Deviations: Classifies data with respect to mean value. 
 ---
  ![Classification Methods](http://axismaps.github.io/thematic-cartography/images/histogram_examples.png)
 ---
@@ -172,11 +173,11 @@ https://youtu.be/I_rw-AJqpCM
 ### NATURAL BREAKS
 ![NATURAL BREAKS](images/election2016-nb5.jpg)
 ---
-### MANUAL BREAKS
-![Two Classes](images/election2016-2class.jpg)
----
 ### STANDARD DEVIATION
 ![Standard Deviation](images/election2016-sd1.jpg)
+---
+### MANUAL BREAKS
+![Two Classes](images/election2016-2class.jpg)
 ---
 ### GUIDING THOUGHTS
 - Classification decisions dictate how your audience interprets the data. 
