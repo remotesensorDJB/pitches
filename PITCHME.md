@@ -160,12 +160,28 @@ https://youtu.be/I_rw-AJqpCM
 ![Hotel Data Hisogram](images/hotel_data.png)
 ---
 ### CLASSIFICATION METHODS
-- Where do we define the breakpoints in our dataset?
+- Where do we define the breakpoints in our dataset? **How many classes are appropriate?**
 - Three main methods:
  - Equal Interval: divides the range of attribute values into equal-sized subranges. **Rectangular distributions**
  - Quantile: Each class contains an equal number of features. **Recatangular distributions**
  - Natural Breaks: based on natural groupings of data. Maximizes in group similarity, minimizes out of group differences. **Uneven/skewed/multimodal distributions**
 ---
- ![Classification Methods](http://axismaps.github.io/thematic-cartography/images/histogram_examples.png) |
+ ![Classification Methods](http://axismaps.github.io/thematic-cartography/images/histogram_examples.png)
+---
+### EQUAL INTERVAL
+![Equal Interval](images/election2016-ei5.jpg)
+---
+### QUANTILE
+![Quantiles](images/election2016-q5.jpg)
+---
+### NATURAL BREAKS
+![NATURAL BREAKS](images/election2016-nb5.jpg)
+---
+### MANUAL BREAKS
+![Two Classes](images/election2016-2class.jpg)
+---
+### STANDARD DEVIATION
+![Standard Deviation](images/election2016-sd1.jpg)
+---
 
 	
