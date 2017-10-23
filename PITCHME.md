@@ -130,7 +130,7 @@ https://youtu.be/I_rw-AJqpCM
 ##### Soil pH Map
 ---
 #### THEMATIC MAP: RATIO DATA
-![Population Density Map](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj-iJ3lgIfXAhVM6yYKHYp5BN8QjRwIBw&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPopulation_density&psig=AOvVaw2BzmOTHDrkE0QMsg9L6HEz&ust=1508857072285991)
+![Population Density Map](https://qph.ec.quoracdn.net/main-qimg-edf790a08b383b70197a8cc1722fa05b-c)
 ##### Population Density Map
 ---
 ### CHOROPLETH MAPS
@@ -198,7 +198,7 @@ https://youtu.be/I_rw-AJqpCM
  - e.g. radar maps
 ---
 ### INCORRECT USE OF COLOR!
-![Bad colors](images/eletion2016-badcolor.jpg)
+![Bad colors](images/election2016-badcolor.jpg)
 ---
 ### NON-INTUITIVE USE OF COLOR
 ![Wrong Colors](images/election2016-blue.jpg)
