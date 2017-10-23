@@ -40,7 +40,7 @@
 - #### Easy way to remember: 
  - >*Features appear **larger** in **large** scale maps, and **smaller** in **small** scale maps* 
 - #### CAUTION! |
- - >A large number ≠ a large scale map! |
+ - >A large denominator ≠ a large scale map! |
 ---
 ![ScaleHeadache](http://blog.chartandmapshop.com.au/wp-content/uploads/2015/02/scale.png)
 ---
@@ -116,5 +116,43 @@ https://youtu.be/I_rw-AJqpCM
 ---
 #### Scales of Spatial Data
 ![Spatial Data Scales](images/data_levels_maps.JPG)
+---
+### THEMATIC MAPS
+- Display information about a single attribute/phenomenon
+- As opposed to a *reference map*, showing general information about an area
+- Can be designed to show data in any scale...
+---
+#### THEMATIC MAP: NOMINAL DATA
+![Geology Map](http://www.uky.edu/KGS/geoky/images/kygeo.jpg)
+##### Geologic Map
+---
+#### THEMATIC MAP: ORDINAL DATA
+![Cancer Risk Map](https://pbs.twimg.com/media/B0Zk1D9CAAEmROA.jpg)
+##### Cancer Risk Map
+---
+#### THEMATIC MAP: INTERVAL DATA
+![Soil pH Map](http://www.cropnutrition.com/Images/median-soil-ph.png?v=3)
+##### Soil pH Map
+---
+#### THEMATIC MAP: RATIO DATA
+![Population Density Map](https://www.mapsofindia.com/worldmap/world-population-density.jpg)
+##### Population Density Map
+---
+### CHOROPLETH MAPS
+- Thematic mapping on a single numerical attribute
+- Use coloring, shading, or different symbols to represent the average value over an area
+- The "bar chart" of the mapping world
+---
+![Bar Chart and Map](https://thumbnails-visually.netdna-ssl.com/us-map-choropleth-with-bar-chart_5411f4ef92636.png)
+---
+###DATA CLASSIFICATION
+- Breaking a range (distribution) of values into *n* classes
+- Reducing the complexity of a dataset into something more interpretable
+- Rescaling data from interval/ratio data > ordinal data
+- The basis for choropleth mapping
+---
+###DATA DISTRIBUTIONS
+- Need to know the "shape" of our data before deciding how to classify it
+![Data Shapes](images/datashapes.jpg)
 
 	
