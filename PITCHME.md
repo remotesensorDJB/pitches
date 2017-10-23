@@ -17,11 +17,6 @@
  - Data Classification > Choropleth Mapping 
  - Ways to classify data
  - The role of color/shading
-- Other ways to represent data |
- - Dot Density
- - Proportional Symbols
- - Cartograms
- - Vector Fields
 ---
 ## Geographic *(Map)* Scale
   >*The ratio of a distance on a map to the corresponding distance on the ground* 
@@ -183,5 +178,39 @@ https://youtu.be/I_rw-AJqpCM
 ### STANDARD DEVIATION
 ![Standard Deviation](images/election2016-sd1.jpg)
 ---
+### GUIDING THOUGHTS
+- Classification decisions dictate how your audience interprets the data. 
+- Your opportunity to control the narrative! 
+- Select a classification method and number of classes that highlight **your** message.
+- Visual impact dominates perception! Color and size are first impression.
+- How to lie with maps! http://www.markmonmonier.com/how_to_lie_with_maps_14880.htm 
+---
+### THE ROLE OF COLOR
+- Color impacts the way a reader interprets data
+ - Most can't distinguish more than seven colors...classes begin to blur
+ - Blues/greens easier to differentiate than reds/oranges
+ - Use shades of same hue for sequential data
+---
+### THE ROLE OF COLOR 
+- Avoid bold/brash colors...pastel hues more eye pleasing
+- Use greyscale tones to de-emphasize unimportant data
+- Pay attention to prevailing color associations 
+ - e.g. radar maps
+---
+### INCORRECT USE OF COLOR!
+![Bad colors](images/eletion2016-badcolor.jpg)
+---
+### NON-INTUITIVE USE OF COLOR
+![Wrong Colors](images/election2016-blue.jpg)
+---
+### BETTER CHOICE
+![Good Color](images/election2016-red.jpg)
+---
+### COLOR BREWER
+##### http://colorbrewer2.org/
+
+ 
+ 
+ 
 
 	
