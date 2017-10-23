@@ -145,14 +145,14 @@ https://youtu.be/I_rw-AJqpCM
 ---
 ![Bar Chart and Map](https://thumbnails-visually.netdna-ssl.com/us-map-choropleth-with-bar-chart_5411f4ef92636.png)
 ---
-###DATA CLASSIFICATION
+### DATA CLASSIFICATION
 - Breaking a range (distribution) of values into *n* classes
 - Reducing the complexity of a dataset into something more interpretable
 - Rescaling data from interval/ratio data > ordinal data
 - The basis for choropleth mapping
 ---
-###DATA DISTRIBUTIONS
-- Need to know the "shape" of our data before deciding how to classify it
+### DATA DISTRIBUTIONS
+- the "shape" of our data 
 ![Data Shapes](images/datashapes.jpg)
 
 	
