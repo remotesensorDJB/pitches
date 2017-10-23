@@ -152,14 +152,14 @@ https://youtu.be/I_rw-AJqpCM
 - The basis for choropleth mapping
 ---
 ### DATA DISTRIBUTIONS
-- the "shape" of our data 
-![Data Shapes](images/datashapes.jpg)
+- the "shape" of our data
+- ![Data Shapes](images/datashapes.jpg)
 ---
-###HISTOGRAMS
+### HISTOGRAMS
 - Depict the distribution of data values
 ![Hotel Data Hisogram](images/hotel_data.png)
 ---
-###CLASSIFICATION METHODS
+### CLASSIFICATION METHODS
 - Where do we define the breakpoints in our dataset?
 - Three main methods:
  - Equal Interval: divides the range of attribute values into equal-sized subranges. **Rectangular distributions**
