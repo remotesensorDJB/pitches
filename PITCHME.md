@@ -135,7 +135,7 @@ https://youtu.be/I_rw-AJqpCM
 ##### Soil pH Map
 ---
 #### THEMATIC MAP: RATIO DATA
-![Population Density Map](https://www.mapsofindia.com/worldmap/world-population-density.jpg)
+![Population Density Map](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj-iJ3lgIfXAhVM6yYKHYp5BN8QjRwIBw&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPopulation_density&psig=AOvVaw2BzmOTHDrkE0QMsg9L6HEz&ust=1508857072285991)
 ##### Population Density Map
 ---
 ### CHOROPLETH MAPS
@@ -152,6 +152,19 @@ https://youtu.be/I_rw-AJqpCM
 - The basis for choropleth mapping
 ---
 ### DATA DISTRIBUTIONS
+- the "shape" of our data 
 ![Data Shapes](images/datashapes.jpg)
+---
+###HISTOGRAMS
+- Depict the distribution of data values
+![Hotel Data Hisogram](images/hotel_data.png)
+---
+###CLASSIFICATION METHODS
+- Where do we define the breakpoints in our dataset?
+- Three main methods:
+ - Equal Interval: divides the range of attribute values into equal-sized subranges. **Rectangular distributions**
+ - Quantile: Each class contains an equal number of features. **Recatbgular distributions**
+ - Natural Breaks: based on natural groupsing of data. Maximizes in group similarity, minimizes out of group differences. **Uneven/skewed/multimodal distributions**
+![Classification Methods](http://axismaps.github.io/thematic-cartography/images/histogram_examples.png) |
 
 	
