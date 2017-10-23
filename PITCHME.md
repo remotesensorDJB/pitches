@@ -152,7 +152,6 @@ https://youtu.be/I_rw-AJqpCM
 - The basis for choropleth mapping
 ---
 ### DATA DISTRIBUTIONS
-- the "shape" of our data 
 ![Data Shapes](images/datashapes.jpg)
 
 	
