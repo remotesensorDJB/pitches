@@ -153,7 +153,7 @@ https://youtu.be/I_rw-AJqpCM
 ---
 ### DATA DISTRIBUTIONS
 ###### the "shape" of our data
-- ![Data Shapes](images/datashapes.jpg)
+![Data Shapes](images/datashapes.jpg)
 ---
 ### HISTOGRAMS
 ###### Depict the distribution of data values
