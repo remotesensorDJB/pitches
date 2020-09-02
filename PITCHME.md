@@ -87,7 +87,7 @@ Different maps for different types of data...
 ##### Cancer Risk Map
 ---
 #### THEMATIC MAP: INTERVAL DATA
-![height=800px](https://forages.oregonstate.edu/sites/forages.oregonstate.edu/files/ph.jpg)
+![height=600px](https://forages.oregonstate.edu/sites/forages.oregonstate.edu/files/ph.jpg)
 ##### Soil pH Map
 ---
 #### THEMATIC MAP: RATIO DATA
