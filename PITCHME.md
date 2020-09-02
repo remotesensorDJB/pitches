@@ -83,51 +83,51 @@ Different maps for different types of data...
 @box[bg-blue text-white waved box-padding](Ratio Data# - **Has true zero**<br/>- Negatives not possible <br/>- Operations: x , / <br/>- Population)
 @snapend
 +++
-#### Scales of Spatial Data
+	#### Scales of Spatial Data
 ![Spatial Data Scales](images/data_levels_maps.JPG)
 ---
 ### THEMATIC MAPS
 - Display information about a single attribute/phenomenon
 - As opposed to a *reference map*, showing general information about an area
 - Can be designed to show data in any scale...
----
++++
 #### THEMATIC MAP: NOMINAL DATA
 ![Geology Map](http://www.uky.edu/KGS/geoky/images/kygeo.jpg)
 ##### Geologic Map
----
++++
 #### THEMATIC MAP: ORDINAL DATA
 ![Cancer Risk Map](https://pbs.twimg.com/media/B0Zk1D9CAAEmROA.jpg)
 ##### Cancer Risk Map
----
++++
 #### THEMATIC MAP: INTERVAL DATA
 ![height=600px](https://forages.oregonstate.edu/sites/forages.oregonstate.edu/files/ph.jpg)
 ##### Soil pH Map
----
++++
 #### THEMATIC MAP: RATIO DATA
 ![height=600px](https://i.redd.it/gew2qvfe6h511.png)
 ##### Population Density Map
 ---
 ### CHOROPLETH MAPS
 - Thematic mapping on a single numerical attribute
-- Use coloring, shading, or different symbols to represent the average value over an area
+- Use coloring, shading, or different symbols to represent a quantity or average value over an area
 - The "bar chart" of the mapping world
----
++++
 ![Bar Chart and Map](https://thumbnails-visually.netdna-ssl.com/us-map-choropleth-with-bar-chart_5411f4ef92636.png)
----
++++
 ### DATA CLASSIFICATION
 - Breaking a range (distribution) of values into *n* classes
 - Reducing the complexity of a dataset into something more interpretable
 - Rescaling data from interval/ratio data > ordinal data
 - The basis for choropleth mapping
----
++++
 ### DATA DISTRIBUTIONS
 ###### the "shape" of our data
 ![Data Shapes](images/datashapes.jpg)
----
++++
 ### HISTOGRAMS
 ###### Depict the distribution of data values
 ![Hotel Data Histogram](images/hotel_data.png)
----
++++
 ### CLASSIFICATION METHODS
 - Where do we define the breakpoints in our dataset? **How many classes are appropriate?**
 - Four main methods:
@@ -135,55 +135,72 @@ Different maps for different types of data...
  - Quantile: Each class contains an equal number of features. **Recatangular distributions**
  - Natural Breaks: based on natural groupings of data. Maximizes in group similarity, minimizes out of group differences. **Uneven/skewed/multimodal distributions**
  - Standard Deviations: Classifies data with respect to mean value. 
----
++++
  ![Classification Methods](http://axismaps.github.io/thematic-cartography/images/histogram_examples.png)
----
++++
 ### EQUAL INTERVAL
 ![Equal Interval](images/election2016-ei5.jpg)
----
++++
 ### QUANTILE
 ![Quantiles](images/election2016-q5.jpg)
----
++++
 ### NATURAL BREAKS
 ![NATURAL BREAKS](images/election2016-nb5.jpg)
----
++++
 ### STANDARD DEVIATION
 ![Standard Deviation](images/election2016-sd1.jpg)
----
++++
 ### MANUAL BREAKS
 ![Two Classes](images/election2016-2class.jpg)
----
++++
 ### GUIDING THOUGHTS
 - Classification decisions dictate how your audience interprets the data. 
 - Your opportunity to control the narrative! 
 - Select a classification method and number of classes that highlight **your** message.
 - Visual impact dominates perception! Color and size are first impression.
 - How to lie with maps! http://www.markmonmonier.com/how_to_lie_with_maps_14880.htm 
----
++++
 ### THE ROLE OF COLOR
 - Color impacts the way a reader interprets data
- - Most can't distinguish more than seven colors...classes begin to blur
- - Blues/greens easier to differentiate than reds/oranges
+ - Use different colors for unique values 
  - Use shades of same hue for sequential data
----
+ - Use shades of two colors for divergent data
+ - Most can't distinguish more than seven colors...classes begin to blur
++++
+![colo](images/color.jpg)
++++
 ### THE ROLE OF COLOR 
 - Avoid bold/brash colors...pastel hues more eye pleasing
+- Blues/greens easier to differentiate than reds/oranges
 - Use greyscale tones to de-emphasize unimportant data
 - Pay attention to prevailing color associations 
  - e.g. radar maps
----
++++
 ### INCORRECT USE OF COLOR!
 ![Bad colors](images/election2016-badcolor.jpg)
----
++++
 ### NON-INTUITIVE USE OF COLOR
 ![Wrong Colors](images/election2016-blue.jpg)
----
++++
 ### BETTER CHOICE
 ![Good Color](images/election2016-red.jpg)
----
++++
 ### COLOR BREWER
 ##### http://colorbrewer2.org/
 ---
+### Unclassed Maps
+To avoid subjective groupings or breaks in data...
+- **Proportional symbol** maps increase size in proportion to the data value.
+- **Dot density** maps place random points within a polygon based on a specified ratio (1 dot: 1000 people).
+
+@snap[west span-40]
+![proportional symbol](images/prop_symbol.jpg)
+@snapend
+
+@snap[east span-40]
+![dot density](images/dot_density.jpg)
+@snapend
+
 
  
  
