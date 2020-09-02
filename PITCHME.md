@@ -83,7 +83,7 @@ Different maps for different types of data...
 @box[bg-blue text-white waved box-padding](Ratio Data# - **Has true zero**<br/>- Negatives not possible <br/>- Operations: x , / <br/>- Population)
 @snapend
 +++
-	#### Scales of Spatial Data
+#### Scales of Spatial Data
 ![Spatial Data Scales](images/data_levels_maps.JPG)
 ---
 ### THEMATIC MAPS
