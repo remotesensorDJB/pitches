@@ -29,7 +29,7 @@ Depending on feature geometry we have several ways to do so... |
 
 Different maps for different types of data...
 
-- **Single symbolf
+- **Single symbo
 		
 
 ---
@@ -87,7 +87,7 @@ Different maps for different types of data...
 ##### Cancer Risk Map
 ---
 #### THEMATIC MAP: INTERVAL DATA
-![Soil pH Map](https://forages.oregonstate.edu/sites/forages.oregonstate.edu/files/ph.jpg)
+![height=800px](https://forages.oregonstate.edu/sites/forages.oregonstate.edu/files/ph.jpg)
 ##### Soil pH Map
 ---
 #### THEMATIC MAP: RATIO DATA
