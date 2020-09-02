@@ -84,7 +84,7 @@ Different maps for different types of data...
 @snapend
 +++
 #### Scales of Spatial Data
-![Spatial Data Scales](images/data_levels_maps.JPG)
+![width=600](images/data_levels_maps.JPG)
 ---
 ### THEMATIC MAPS
 - Display information about a single attribute/phenomenon
