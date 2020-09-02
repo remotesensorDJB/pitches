@@ -29,10 +29,15 @@ Depending on feature geometry we have several ways to do so... |
 
 Different maps for different types of data...
 
-- **Single symbo
-		
-
----
+- For nominal/categorical or ordinal data
+    - single symbol
+	- unique values
+- For numerical data
+    - graduated color
+	- graduated symbol
+	- dot density
+	- chart maps
+--
 
 --- 
 ## DATA SCALE
@@ -44,19 +49,38 @@ Different maps for different types of data...
  - Ordinal: Each value is ranked in relation to other values |
  - Interval: The scale unit is fixed |
  - Ratio: The scale has a true zero value |
++++
+@snap[west span-40]
+![unique value](images/unique_value.jpg)
+@snapend
+
+@snap[east span-40]
+@box[bg-blue text-white waved box-padding](Nominal Data# - Categorical/Descriptive <br/>- Numbers have no mathematical value, only used as labels<br/>- Operations: = , ≠<br/>- Example: Land Use Classification)
+@snapend
++++
+
+@snap[west span-40]
+![ordinal](images/habitat_suit.jpg)
+@snapend
+
+@snap[east span-40]
+@box[bg-blue text-white waved box-padding](Ordinal Data# - Rankings<br/>- 1st, 2nd, 3rd, etc. <br/>- Distance between adjacent values could vary widely<br/>- Operations: < , > <br/>- Example: Habitat Suitability)
+@snapend
++++
+@snap[west span-40]
+![interval](images/habitat_suit.jpg)
+@snapend
+
+@snap[east span-40]
+@box[bg-blue text-white waved box-padding](Interval Data# - Rankings<br/>- 1st, 2nd, 3rd, etc. <br/>- Distance between adjacent values could vary widely<br/>- Operations: < , > <br/>- )
+@snapend
++++
+
+ 
+
+
 ---
-#### Nominal Data
-- Categorical/Descriptive 
-- Numbers have no mathematical value, only used as labels 
-- Operations: = , ≠
-- Example: Land Use Classification
----
-#### Ordinal Data
-- Rankings
-- 1st, 2nd, 3rd, etc. 
-- Distance between adjacent values could vary widely
-- Operations: < , >
-- Example: Top ten countries by population
+
 ---
 #### Interval Data
 - Data points are measured on a fixed scale
@@ -91,7 +115,7 @@ Different maps for different types of data...
 ##### Soil pH Map
 ---
 #### THEMATIC MAP: RATIO DATA
-![Population Density Map](https://i.redd.it/gew2qvfe6h511.png)
+![height=600px](https://i.redd.it/gew2qvfe6h511.png)
 ##### Population Density Map
 ---
 ### CHOROPLETH MAPS
