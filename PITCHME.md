@@ -1,14 +1,13 @@
-# SPATIAL DATA CONCEPTS AND VISUALIZATION
-## GEOG 350 - FALL 2017
+## Representiing Spatial Data
+## GEOG 558 - Intro to GIS
 
-### Donald J. Biddle
+#### Donald J. Biddle, GISP
 ---
 ### The Plan 
-- Talk about Geographic Scale |
- - What is it? How do we represent it? Large scale vs small scale.
- - What are the effects/limitations of scale?
- - How do we make decisions about scale in our mapping efforts?
-- Talk about Scale of Measurement | 
+- Basics of Symbology |
+ - Fundamental properties
+ - Types of maps
+- Scale of Measurement | 
  - What are *levels* of data?
  - What is data normalization?
 ---
@@ -18,61 +17,23 @@
  - Ways to classify data
  - The role of color/shading
 ---
-## Geographic *(Map)* Scale
-  >*The ratio of a distance on a map to the corresponding distance on the ground* 
----
-### Representing Map Scale
-- Representative Fraction |
- - 1:24,000
-- Textual Scale |
- - *One inch equals 24,000 inches*
- - *1" = 2,000'*
-- Graphical Scale |
- - Scale Bars
- - ![Scale](http://faculty.chemeketa.edu/afrank1/topo_maps/scale/scale.jpg)
----
-### Large or Small Scale?? 
-- #### Easy way to remember: 
- - >*Features appear **larger** in **large** scale maps, and **smaller** in **small** scale maps* 
-- #### CAUTION! |
- - >A large denominator ≠ a large scale map! |
----
-![ScaleHeadache](http://blog.chartandmapshop.com.au/wp-content/uploads/2015/02/scale.png)
----
-#### Examples of large vs. small scale maps
-![Scale Example Image](http://blog.chartandmapshop.com.au/wp-content/uploads/2015/02/scales.png)
----
-### Limitations/Effects of Scale
-#### Simply put: Tradeoff between detail and extent
-- ###### Large Scale Maps > High detail, limited area |
-- ###### Small Scale Maps > Large extent, limited detail |
----
-### Scale Effects
-- **Cartographic Generalization**
- - Deriving a smaller scale map from large scale map data |
- - Abstraction of higher level data to lower level data |
- - Loss of detail/Omission of key features |
- - The "Baltimore Phenomenon" |
----
-### Generalization
-![Generalization Examples Image 1](images/generalization1.png)
-Note: Simplification – Removing points
-Smoothing – Replacing sharp and complex bends with smoother ones
-Collapse – Areas become combinations of lines and points
-Aggregation – individual objects are replaced by a smaller number of new objects
----
-### Generalization
-![Generalization Examples Image 2](images/generalization2.png)
-Note: Amalgamation – Several Area objects become one single area
-Merge – Several lines become one line
-Refinement – Replacing complex patterns with a simple pattern preserving general form
-Exaggeration – Enlarging object to preserve it at smaller scales
----
-### The Coastline Paradox
-> The measured length of a feature is inversely proportional to its unit of measure.
-> The smaller the unit of measure, the longer the measured length!
+## Basics of map symbols
 
-https://youtu.be/I_rw-AJqpCM 
+We are mainly trying to differentiate features based on **category** or **quantity**. 
+
+Depending on feature geometry we have several ways to do so... |
+
+![Symbol Prop](images/symbol-prop.jpg) 
+---
+### Types of maps
+
+Different maps for different types of data...
+
+- **Single symbolf
+		
+
+---
+
 --- 
 ## DATA SCALE
 ### or SCALE OF MEASUREMENT
@@ -126,11 +87,11 @@ https://youtu.be/I_rw-AJqpCM
 ##### Cancer Risk Map
 ---
 #### THEMATIC MAP: INTERVAL DATA
-![Soil pH Map](http://www.cropnutrition.com/Images/median-soil-ph.png?v=3)
+![Soil pH Map](https://forages.oregonstate.edu/sites/forages.oregonstate.edu/files/ph.jpg)
 ##### Soil pH Map
 ---
 #### THEMATIC MAP: RATIO DATA
-![Population Density Map](https://qph.ec.quoracdn.net/main-qimg-edf790a08b383b70197a8cc1722fa05b-c)
+![Population Density Map](https://i.redd.it/gew2qvfe6h511.png)
 ##### Population Density Map
 ---
 ### CHOROPLETH MAPS
@@ -152,7 +113,7 @@ https://youtu.be/I_rw-AJqpCM
 ---
 ### HISTOGRAMS
 ###### Depict the distribution of data values
-![Hotel Data Hisogram](images/hotel_data.png)
+![Hotel Data Histogram](images/hotel_data.png)
 ---
 ### CLASSIFICATION METHODS
 - Where do we define the breakpoints in our dataset? **How many classes are appropriate?**
@@ -209,6 +170,7 @@ https://youtu.be/I_rw-AJqpCM
 ---
 ### COLOR BREWER
 ##### http://colorbrewer2.org/
+---
 
  
  
