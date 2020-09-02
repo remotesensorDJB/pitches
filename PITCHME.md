@@ -153,6 +153,18 @@ Different maps for different types of data...
 ### MANUAL BREAKS
 ![Two Classes](images/election2016-2class.jpg)
 +++
+### Data Normalization
+The [**Modifiable Areal Unit Problem**](https://en.wikipedia.org/wiki/Modifiable_areal_unit_problem) means that the size and shape of polygon units will influence data values.
+
+The number of farms in any state is likely affected by the size of the state (a). The population of a state affects the number of vacant houses (b).
+![Maup 1](images/maup_1.jpg)
++++
+### Data Normalization
+Normalizing (dividing) data by a suitable field allows data patterns to emerge
+- Farms per square mile instead of number of farms.
+- Fraction of housing units that are vacant instead of number of vacancies.
+![MAUP 2](images/maup_2.png)
++++
 ### GUIDING THOUGHTS
 - Classification decisions dictate how your audience interprets the data. 
 - Your opportunity to control the narrative! 
