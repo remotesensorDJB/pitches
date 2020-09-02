@@ -139,19 +139,19 @@ Different maps for different types of data...
  ![Classification Methods](http://axismaps.github.io/thematic-cartography/images/histogram_examples.png)
 +++
 ### EQUAL INTERVAL
-![Equal Interval](images/election2016-ei5.jpg)
+![width=600](images/election2016-ei5.jpg)
 +++
 ### QUANTILE
-![Quantiles](images/election2016-q5.jpg)
+![width=600](images/election2016-q5.jpg)
 +++
 ### NATURAL BREAKS
-![NATURAL BREAKS](images/election2016-nb5.jpg)
+![width=600](images/election2016-nb5.jpg)
 +++
 ### STANDARD DEVIATION
-![Standard Deviation](images/election2016-sd1.jpg)
+![width=600](images/election2016-sd1.jpg)
 +++
 ### MANUAL BREAKS
-![Two Classes](images/election2016-2class.jpg)
+![width=600](images/election2016-2class.jpg)
 +++
 ### Data Normalization
 The [**Modifiable Areal Unit Problem**](https://en.wikipedia.org/wiki/Modifiable_areal_unit_problem) means that the size and shape of polygon units will influence data values.
