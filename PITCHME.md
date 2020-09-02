@@ -1,4 +1,4 @@
-## Representiing Spatial Data
+## Representing Spatial Data
 ## GEOG 558 - Intro to GIS
 
 #### Donald J. Biddle, GISP
