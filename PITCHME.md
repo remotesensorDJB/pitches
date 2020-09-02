@@ -55,7 +55,7 @@ Different maps for different types of data...
 @snapend
 
 @snap[east span-40]
-@box[bg-blue text-white waved box-padding](Nominal Data# - Categorical/Descriptive <br/>- Numbers have no mathematical value, only used as labels<br/>- Operations: = , ≠<br/>- Example: Land Use Classification)
+@box[bg-blue text-white waved box-padding](Nominal Data# - Categorical or Descriptive <br/>- Numbers have no mathematical value, only used as labels<br/>- Operations: = , ≠<br/>- Example: Land Use Classification)
 @snapend
 +++
 
