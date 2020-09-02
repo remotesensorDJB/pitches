@@ -68,32 +68,21 @@ Different maps for different types of data...
 @snapend
 +++
 @snap[west span-40]
-![interval](images/habitat_suit.jpg)
+![interval](images/elevation.jpg)
 @snapend
 
 @snap[east span-40]
-@box[bg-blue text-white waved box-padding](Interval Data# - Rankings<br/>- 1st, 2nd, 3rd, etc. <br/>- Distance between adjacent values could vary widely<br/>- Operations: < , > <br/>- )
+@box[bg-blue text-white waved box-padding](Interval Data# - Measured on a fixed scale<br/>- **No true zero** <br/>- Negative values possible<br/>- Operations: + , - <br/>- Example: Elevation)
 @snapend
 +++
+@snap[west span-40]
+![ratio](images/pop_dot.jpg)
+@snapend
 
- 
-
-
----
-
----
-#### Interval Data
-- Data points are measured on a fixed scale
-- Data scale **has no true zero value**, and negatives are possible
-- Operations: + , - 
-- Examples: Temperature on Celsius Scale, Time/Date from 0CE  
----
-#### Ratio Data
-- Data scale has a true/absolute zero value
-- Negative values not possible
-- Operations: * , /
-- Examples: Daily precipitation, population, Temp in Kelvin
----
+@snap[east span-40]
+@box[bg-blue text-white waved box-padding](Ratio Data# - **Has true zero**<br/>- Negatives not possible <br/>- Operations: x , / <br/>- Population)
+@snapend
++++
 #### Scales of Spatial Data
 ![Spatial Data Scales](images/data_levels_maps.JPG)
 ---
