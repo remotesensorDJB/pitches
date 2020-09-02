@@ -100,11 +100,11 @@ Different maps for different types of data...
 ##### Cancer Risk Map
 +++
 #### THEMATIC MAP: INTERVAL DATA
-![height=600px](https://forages.oregonstate.edu/sites/forages.oregonstate.edu/files/ph.jpg)
+![width=600px](https://forages.oregonstate.edu/sites/forages.oregonstate.edu/files/ph.jpg)
 ##### Soil pH Map
 +++
 #### THEMATIC MAP: RATIO DATA
-![height=600px](https://i.redd.it/gew2qvfe6h511.png)
+![width=600px](https://i.redd.it/gew2qvfe6h511.png)
 ##### Population Density Map
 ---
 ### CHOROPLETH MAPS
