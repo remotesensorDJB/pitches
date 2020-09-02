@@ -23,7 +23,7 @@ We are mainly trying to differentiate features based on **category** or **quanti
 
 Depending on feature geometry we have several ways to do so... |
 
-![Symbol Prop](images/symbol-prop.jpg) 
+![Symbol Prop](images/symbol_prop.jpg) 
 +++
 ### Types of maps
 
