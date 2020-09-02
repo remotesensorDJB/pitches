@@ -21,7 +21,7 @@
 
 We are mainly trying to differentiate features based on **category** or **quantity**. 
 
-Depending on feature geometry we have several ways to do so... |
+Depending on feature geometry we have several ways to do so... 
 
 ![Symbol Prop](images/symbol_prop.jpg) 
 +++
