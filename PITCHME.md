@@ -156,7 +156,7 @@ Different maps for different types of data...
 ### Data Normalization
 The [**Modifiable Areal Unit Problem**](https://en.wikipedia.org/wiki/Modifiable_areal_unit_problem) means that the size and shape of polygon units will influence data values.
 
-The number of farms in any state is likely affected by the size of the state (a). The population of a state affects the number of vacant houses (b).
+> @size[.6em]The number of farms in any state is likely affected by the size of the state (a). The population of a state affects the number of vacant houses (b).
 ![Maup 1](images/maup_1.jpg)
 +++
 ### Data Normalization
