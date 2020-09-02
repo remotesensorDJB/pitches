@@ -193,13 +193,13 @@ To avoid subjective groupings or breaks in data...
 - **Proportional symbol** maps increase size in proportion to the data value.
 - **Dot density** maps place random points within a polygon based on a specified ratio (1 dot: 1000 people).
 +++
-@snap[west span-100]
+##### Proportional Symbols
 ![proportional symbol](images/prop_symbol.jpg)
-@snapend
-
-@snap[east span-100]
++++
+##### Dot Density
 ![dot density](images/dot_density.jpg)
-@snapend
++++
+### The End
 
 
  
