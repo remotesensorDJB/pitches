@@ -24,7 +24,7 @@ We are mainly trying to differentiate features based on **category** or **quanti
 Depending on feature geometry we have several ways to do so... |
 
 ![Symbol Prop](images/symbol-prop.jpg) 
----
++++
 ### Types of maps
 
 Different maps for different types of data...
@@ -37,7 +37,7 @@ Different maps for different types of data...
 	- graduated symbol
 	- dot density
 	- chart maps
---
+
 
 --- 
 ## DATA SCALE
