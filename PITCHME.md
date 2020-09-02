@@ -191,13 +191,13 @@ Normalizing (dividing) data by a suitable field allows data patterns to emerge
  - e.g. radar maps
 +++
 ### INCORRECT USE OF COLOR!
-![Bad colors](images/election2016-badcolor.jpg)
+![width=800](images/election2016-badcolor.jpg)
 +++
 ### NON-INTUITIVE USE OF COLOR
-![Wrong Colors](images/election2016-blue.jpg)
+![width=800](images/election2016-blue.jpg)
 +++
 ### BETTER CHOICE
-![Good Color](images/election2016-red.jpg)
+![width=800](images/election2016-red.jpg)
 +++
 ### COLOR BREWER
 ##### http://colorbrewer2.org/
