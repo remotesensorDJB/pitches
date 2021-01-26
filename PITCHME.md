@@ -131,8 +131,8 @@ Different maps for different types of data...
 ### CLASSIFICATION METHODS
 - Where do we define the breakpoints in our dataset? **How many classes are appropriate?**
 - Four main methods:
- - Equal Interval: divides the range of attribute values into equal-sized subranges. **Rectangular distributions**
- - Quantile: Each class contains an equal number of features. **Recatangular distributions**
+ - Equal Interval: divides the range of values into equal-sized subranges. 
+ - Quantile: Each class contains an equal number of features. 
  - Natural Breaks: based on natural groupings of data. Maximizes in group similarity, minimizes out of group differences. **Uneven/skewed/multimodal distributions**
  - Standard Deviations: Classifies data with respect to mean value. 
 +++
