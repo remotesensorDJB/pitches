@@ -96,7 +96,7 @@ Different maps for different types of data...
 ##### Geologic Map
 +++
 #### THEMATIC MAP: ORDINAL DATA
-![Cancer Risk Map](https://pbs.twimg.com/media/B0Zk1D9CAAEmROA.jpg)
+![Cancer Risk Map](images/Ch10_Burden_Ranking.png)
 ##### Cancer Risk Map
 +++
 #### THEMATIC MAP: INTERVAL DATA
