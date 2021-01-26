@@ -136,7 +136,7 @@ Different maps for different types of data...
  - Natural Breaks: based on natural groupings of data. Maximizes in group similarity, minimizes out of group differences. **Uneven/skewed/multimodal distributions**
  - Standard Deviations: Classifies data with respect to mean value. 
 +++
- ![Classification Methods](http://axismaps.github.io/thematic-cartography/images/histogram_examples.png)
+ ![Classification Methods](https://uploads-ssl.webflow.com/5f6a4786fa53db61032919f9/5fa44acd9fd5f0dd50b07af2_histogram_examples.png)
 +++
 ### EQUAL INTERVAL
 ![width=600](images/election2016-ei5.jpg)
